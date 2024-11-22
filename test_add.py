@@ -1,4 +1,4 @@
-from add import add_two_numbers,subtract_two_numbers
+from add import add_two_numbers
 
 def test_add_two_numbers():
     assert add_two_numbers(3,4) == 7
